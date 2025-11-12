@@ -8,7 +8,7 @@ Desafio feito no bootcamp da Resilia Educação, no módulo 5 sobre React, ele �
 
 <img src="https://emojis.slackmojis.com/emojis/images/1643511105/42572/layout.png?1643511105" width="20px"> __Link para acesso ao layout do projeto:__  *[LAYOUT](https://xd.adobe.com/spec/4025e242-a495-4594-71d2-5fd89d774b57-3614)*
 
-<img src="https://emojis.slackmojis.com/emojis/images/1621756942/41043/api.png?1621756942" width="20px"> __Link para acesso ao endpoint da API:__  *[ENDPOINT](https://frontend-intern-challenge-api.iurykrieger.now.sh/products?page=1)*
+<img src="https://emojis.slackmojis.com/emojis/images/1621756942/41043/api.png?1621756942" width="20px"> __Link para acesso ao endpoint da API:__  *[ENDPOINT]()*
 
 
 
